@@ -1,0 +1,19 @@
+{
+    "name": "ikamihiro/frankenstein-core",
+    "type": "library",
+    "description": "Miniframework for study purposes",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "João G. Silva",
+            "email": "joogabrielsntn66@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Frankenstein\\": "src/"
+        }
+    },
+    "require": {}
+}
